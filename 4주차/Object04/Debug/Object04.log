@@ -1,0 +1,6 @@
+﻿  Service.cpp
+  Controller.cpp
+  코드를 생성하고 있습니다...
+c:\users\micke\documents\visual studio 2015\projects\object04\object04\service.cpp(64): warning C4715: 'Service::bookAllCheck': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Object04.vcxproj -> C:\Users\micke\documents\visual studio 2015\Projects\Object04\Debug\Object04.exe
+  Object04.vcxproj -> C:\Users\micke\documents\visual studio 2015\Projects\Object04\Debug\Object04.pdb (Partial PDB)
